@@ -1,13 +1,13 @@
 # META IMAGE TEMPLATES
 
-A collection of templates for creating web page meta icons, including:
+A collection of simple templates for creating web page meta icons, including:
 
 * Favicon (High Resolution and Standard versions)
 * iOS Homescreen Icons
 * iOS Startup Screens
 * Windows 8 Pinned Tile Icon
 
-[Download All Templates](https://github.com/jackbrewer/meta-icon-templates/raw/master/Templates.zip)
+#### [Download All Templates](https://github.com/jackbrewer/meta-icon-templates/raw/master/Templates.zip)
 
 ## Favicon
 
