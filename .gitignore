@@ -1,0 +1,7 @@
+# OSX Specifics
+
+.DS_Store
+Icon
+._*
+.Spotlight-V100
+.Trashes
