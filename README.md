@@ -7,7 +7,7 @@ A collection of simple templates for creating web page meta icons, including:
 * iOS Startup Screens
 * Windows 8 Pinned Tile Icon
 
-#### [Download All Templates](https://github.com/jackbrewer/meta-icon-templates/raw/master/Templates.zip)
+#### [Download All Templates](https://github.com/jackbrewer/meta-icon-templates/raw/master/Meta Icon Templates.zip)
 
 ## Favicon
 
