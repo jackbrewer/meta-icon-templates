@@ -4,7 +4,6 @@ A collection of simple templates for creating web page meta icons, including:
 
 * Favicon (High Resolution and Standard versions)
 * iOS Homescreen Icons
-* iOS Startup Screens – iOS6 & iOS7 
 * Windows 8 Pinned Tile Icon
 
 #### [Download All Templates](https://github.com/jackbrewer/meta-icon-templates/raw/master/Meta Icon Templates.zip)
@@ -15,16 +14,10 @@ Templates to create standard and high pixel density favicons. These can be saved
 
 ## iOS Homescreen Icons
 
-Templates for 7 different size homescreen icons, to cater for standard and Retina iPhones and iPads.
+Templates for 4 different size homescreen icons, to cater for standard and Retina iPhones and iPads.
 
-**iOS6 Sizes**
-* 57px – iPhone (non Retina)
-* 114px – iPhone (Retina)
-* 72px – iPad (non Retina)
-* 144px – iPad (Retina)
-
-**iOS7 Sizes**
 * 120px – iPhone (Retina)
+* 180px – iPhone (Retina HD)
 * 76px – iPad (non Retina)
 * 152px – iPad (Retina)
 
