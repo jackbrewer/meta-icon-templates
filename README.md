@@ -28,12 +28,6 @@ Templates for 7 different size homescreen icons, to cater for standard and Retin
 * 76px – iPad (non Retina)
 * 152px – iPad (Retina)
 
-## iOS Startup Screens
-
-Templates for creating iOS Startup screens – useful when a project functions as a standalone web-app.
-
-Note: The landscape orientation iPad screens need to be saved in portrait orientation to display correctly
-
 ## Windows 8 Pinned Tile Icon
 
 Template to display a site icon on a Windows 8 pinned tile. Recommended to be a logo with transparent background, as a solid colour background will be specified for the tile elsewhere in the meta tags.
