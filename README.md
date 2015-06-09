@@ -24,3 +24,7 @@ Templates for 4 different size homescreen icons, to cater for standard and Retin
 ## Windows 8 Pinned Tile Icon
 
 Template to display a site icon on a Windows 8 pinned tile. Recommended to be a logo with transparent background, as a solid colour background will be specified for the tile elsewhere in the meta tags.
+
+## OpenGraph Images
+
+Template to create a default OpenGraph image to be used when a page doesn't supply its own. Resized to various sizes based on which service is using the image. Keep it simple, as can be resized to <10% original size in some cases.
